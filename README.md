@@ -47,12 +47,8 @@ AWS-Athena/
 ├── README.md
 ├── images/
 │   ├── architecture.png
-│   ├── step1.png
-│   ├── step2.png
-│   ├── ...
-│
 └── documentation/
-    └── Amazon_Athena_Implementation.pdf
+    └── AWS Athena.pdf
 ```
 
 ---
