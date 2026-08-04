@@ -47,7 +47,7 @@ AWS-Athena/
 ├── README.md
 ├── images/
 │   ├── architecture.png
-└── documentation/
+└── Documentation/
     └── AWS Athena.pdf
 ```
 
