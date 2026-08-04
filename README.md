@@ -238,19 +238,11 @@ Athena also automatically stored every query result and metadata file inside the
 
 Complete implementation guide:
 
-📄 **Amazon_Athena_Implementation.pdf**
+📄 **AWS Athena.pdf**
 
 ---
 
 # 👨‍💻 Author
 
 **Saiprasad Sambhaji Godge**
-
-- RHCSA
-- RHCE
-- AWS Cloud Enthusiast
-- Aspiring DevOps Engineer
-
 ---
-
-⭐ If you found this project useful, feel free to star the repository.
