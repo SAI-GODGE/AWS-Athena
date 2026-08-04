@@ -24,7 +24,6 @@ The objective of this project is to understand how Amazon Athena can query data 
 
 # 🏗️ Architecture
 
-> *(Add your architecture diagram here)*
 
 ![Architecture](Images/architecture.png)
 
